@@ -36,3 +36,9 @@
 
 # vsc files
 .vscode
+
+# build folder in the week3 folder
+Week_3/build
+Week_3/reverse_a_string
+Week_3/previous_smallest_elems
+Week_3/gen_bin_num

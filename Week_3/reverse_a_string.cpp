@@ -1,18 +1,4 @@
 // 2)	Reverse a string using stack data structure 
-// #include <iostream>
-// #include <string>
-// using namespace std;
-
-// int main()
-// {
-//    string input, output;
-//    cout << "Put a string: " ;
-//    cin >> input;
-   
-   
-//    return 0;
-// }
-// C++ program to reverse a string using stack
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -81,7 +67,6 @@ void reverse(char str[])
 		str[i] = pop(stack);
 }
 
-// Driver code
 int main()
 {
 	char str[] = "GeeksQuiz";
@@ -91,5 +76,3 @@ int main()
 
 	return 0;
 }
-
-// This code is contributed by rathbhupendra
