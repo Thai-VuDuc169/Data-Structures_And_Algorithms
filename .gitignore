@@ -33,3 +33,6 @@
 
 # office files
 *.docx
+
+# vsc files
+.vscode

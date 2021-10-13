@@ -1,6 +1,5 @@
 /*
 1)	Compute Gradient of an image  
-2)	Reverse a string using stack data structure 
 3)	Generate binary numbers between 1 to n using a queue 
 4)	Note: For the first exercise, you can use lib as OpenCV for reading and writing an image. 
 To compute Gradient of an image, please study what is the gradient of image 
